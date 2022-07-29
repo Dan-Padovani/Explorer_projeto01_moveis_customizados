@@ -18,9 +18,7 @@ In this challenge, it was requested to create a simple desktop landing page, apl
 I had the oportunity to practice and study:
 *	Customize fonts with CSS;
 *	The basic of Figma and how we use to build a web aplication;
-*	Paddings and position;
-*	Concept of CSS Box Model and Flexbox;
-* Basic of DevTools.
+*	Paddings and position.
 
 ---
 
@@ -64,4 +62,4 @@ Just access the link bellow:
 
 ### :memo: License
 
-This project is under the MIT license. See the [LICENSE](link/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.

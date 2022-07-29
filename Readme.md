@@ -1,0 +1,67 @@
+# Explorer_Desafio_Móveis Customizados
+
+## A simple landing page
+
+<p align="center">
+	<a href="#computer-about">About</a> •
+ 	<a href="#art-layout">Layout</a> • 
+ 	<a href="#clipboard-how-to-use">How to use</a> • 
+ 	<a href="#rocket-technologies">Tech Stack</a> • 
+ 	<a href="#dart-author">Autor</a> • 
+ 	<a href="#memo-license">License</a>
+</p>
+
+### :computer: About
+
+In this challenge, it was requested to create a simple desktop landing page, aplying the basic concepts of HTML an CSS, that's the reason we don't have any responsive here.
+
+I had the oportunity to practice and study:
+*	Customize fonts with CSS;
+*	The basic of Figma and how we use to build a web aplication;
+*	Paddings and position;
+*	Concept of CSS Box Model and Flexbox;
+* Basic of DevTools.
+
+---
+
+### :art: Layout
+
+### Desktop
+
+<p align="center">
+	<img alt="desktop version of website" src="./images/Desktop.png" width="600px">
+</p>
+
+---
+
+### :clipboard: How To Use
+
+Just access the link bellow:
+
+<a href="https://dan-padovani.github.io/Explorer_projeto01_moveis_customuzados/" target="_blank">Móveis Customizados</a>
+
+---
+
+### :rocket: Technologies
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+---
+
+### :dart: Author
+
+<p>
+	Made with &#128150 by Daniel Padovani &#128075 Entre em contato! 	
+</p>
+<div>
+  <a href="https://www.linkedin.com/in/daniel-padovani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
+</div>
+
+---
+
+### :memo: License
+
+This project is under the MIT license. See the [LICENSE](link/master/LICENSE) for more information.

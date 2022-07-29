@@ -36,7 +36,7 @@ I had the oportunity to practice and study:
 
 Just access the link bellow:
 
-<a href="https://dan-padovani.github.io/Explorer_projeto01_moveis_customuzados/" target="_blank">Móveis Customizados</a>
+<a href="https://dan-padovani.github.io/Explorer_projeto01_moveis_customizados/" target="_blank">Móveis Customizados</a>
 
 ---
 

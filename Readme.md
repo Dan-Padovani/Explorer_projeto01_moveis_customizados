@@ -27,7 +27,7 @@ I had the oportunity to practice and study:
 ### Desktop
 
 <p align="center">
-	<img alt="desktop version of website" src="./images/desktop.png" width="600px">
+	<img alt="desktop version of website" src="./images/desktop01.png" width="600px">
 </p>
 
 ---
